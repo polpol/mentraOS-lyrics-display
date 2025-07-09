@@ -1,5 +1,5 @@
 
-Created this simple app to display song lyrics on AR glasses.
+Very simple app to display song lyrics on AR glasses.
 Works with Vuzix 100
 
 Select a song in MentraOS app.
