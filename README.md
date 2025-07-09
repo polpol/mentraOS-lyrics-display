@@ -1,3 +1,22 @@
+
+Created this simple app to display song lyrics on AR glasses.
+Works with Vuzix 100
+
+Select a song in MentraOS app.
+Option to adjust song position to time lyrics better.
+
+Ideally would use microphone to auto-detect song position and adjust (Shazam style)
+Eventually should source LRC files based on song detected
+
+
+v0.0.1 
+uploaded hard-coded lyrics files for M72 World Tour
+
+
+###################################################################
+
+
+
 # AugmentOS-Cloud-Example-App
 
 ### Install AugmentOS on your phone
