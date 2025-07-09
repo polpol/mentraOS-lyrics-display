@@ -49,7 +49,7 @@ class ExampleAugmentOSApp extends TpaServer {
   private async nextSong(songname: string, session: TpaSession, sessionId: string, userId: string, position: number)
   {
     this.breakSong = false;
-    this.updateDisplay(songname, session, 3000)
+    //this.updateDisplay(songname, session, 3000)
     const currSong = songpicker(songname)
         
     for (let x = position; x < currSong.length; x++) {
